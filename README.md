@@ -7,6 +7,8 @@
 <h3>🔑 Key Points</h3>
 <ul>
 	<li>C# backend develop</li>
+	<li>Participate in hackathons</li>
+	<li>Strive to be better</li>
 </ul>
 
 <h3>🛠 Technical stack</h3>
@@ -18,13 +20,13 @@
 	<li>React</li>
 </ul>
 
-<h3>📚 Books</h3>
+<!--<h3>📚 Books</h3>
 <ul>
 	<li>CLR via C# - Jeffrey Richter</li>
 	<li>Clean Code - Robert Martin</li>
 	<li>Clean Architecture - Robert Martin</li>
 </ul>
-
+-->
 <div>
 	<a
 		href="https://github-readme-stats.vercel.app/api?username=G0dObject&show_icons=true&count_private=true"
