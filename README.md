@@ -1,4 +1,3 @@
-<h1>Hi, i am Vladimir</h1>
 <h2>👨‍💻About me</h2>
 
 <p>
@@ -14,7 +13,9 @@
 <ul>
 	<li>ASP.NET</li>
 	<li>Entity Framework Core</li>
-	<li>.NET</li>
+	<li>My Sql, SqLite</li>
+	<li>WebApi</li>
+	<li>React</li>
 </ul>
 
 <h3>📚 Books</h3>
