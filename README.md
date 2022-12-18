@@ -15,7 +15,7 @@
 <ul>
 	<li>ASP.NET</li>
 	<li>Entity Framework Core</li>
-	<li>My Sql, SqLite</li>
+	<li>MySql, SqLite</li>
 	<li>WebApi</li>
 	<li>React</li>
 </ul>
