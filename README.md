@@ -34,9 +34,17 @@
 			height="150"
 			src="https://stats-seven-virid.vercel.app/api?username=G0dObject&show_icons=true&count_private=true"
 	/></a>
-	<a href="https://stats-seven-virid.vercel.app/api/top-langs/?username=G0dObject&layout=compact"
+	<h2>Last Project</h2>
+<a
+		href="https://stats-seven-virid.vercel.app/api/pin?username=g0dObject&repo=Notes"
 		><img
-			height="150"
-			src="https://stats-seven-virid.vercel.app/api/top-langs/?username=G0dObject&layout=compact"
+			height="75"
+			src="https://stats-seven-virid.vercel.app/api/pin?username=g0dObject&repo=Notes"
+	/></a>
+	<a
+		href="https://stats-seven-virid.vercel.app/api/pin?username=g0dObject&repo=Notes-Front"
+		><img
+			height="75"
+			src="https://stats-seven-virid.vercel.app/api/pin?username=g0dObject&repo=Notes-Front"
 	/></a>
 </div>
