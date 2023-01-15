@@ -29,14 +29,14 @@
 -->
 <div>
 	<a
-		href="https://github-readme-stats.vercel.app/api?username=G0dObject&show_icons=true&count_private=true"
+		href="https://stats-seven-virid.vercel.app/api?username=G0dObject&show_icons=true&count_private=true"
 		><img
 			height="150"
-			src="https://github-readme-stats.vercel.app/api?username=G0dObject&show_icons=true&count_private=true"
+			src="https://stats-seven-virid.vercel.app/api?username=G0dObject&show_icons=true&count_private=true"
 	/></a>
-	<a href="https://github.com/romankh3/github-readme-stats"
+	<a href="https://github.com/G0dObject/Stats"
 		><img
 			height="150"
-			src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0dObject&layout=compact"
+			src="https://stats-seven-virid.vercel.app/api/top-langs/?username=G0dObject&layout=compact"
 	/></a>
 </div>
