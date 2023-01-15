@@ -34,7 +34,7 @@
 			height="150"
 			src="https://stats-seven-virid.vercel.app/api?username=G0dObject&show_icons=true&count_private=true"
 	/></a>
-	<a href="https://github.com/G0dObject/Stats"
+	<a href="https://stats-seven-virid.vercel.app/api/top-langs/?username=G0dObject&layout=compact"
 		><img
 			height="150"
 			src="https://stats-seven-virid.vercel.app/api/top-langs/?username=G0dObject&layout=compact"
