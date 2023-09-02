@@ -36,7 +36,7 @@
       href="https://github.com/G0dObject/Recipe"
       ><img
       height="120"
-      src="https://stats-seven-virid.vercel.app/api/pin?username=g0dObject&repo=Notes"
+      src="https://stats-seven-virid.vercel.app/api/pin?username=g0dObject&repo=Recipe"
       /></a>
   
 </div>
