@@ -32,18 +32,11 @@
       src="https://stats-seven-virid.vercel.app/api?username=G0dObject&show_icons=true&count_private=true"
       /></a>
    <h2>Last Project:</h2>
-   <h3>Backend:</h3>
    <a
-      href="https://github.com/G0dObject/Notes"
+      href="https://github.com/G0dObject/Recipe"
       ><img
       height="120"
       src="https://stats-seven-virid.vercel.app/api/pin?username=g0dObject&repo=Notes"
       /></a>
-   <h3>Frontend:</h3>
-   <a
-      href="https://github.com/G0dObject/Notes-Front"
-      ><img
-      height="120"
-      src="https://stats-seven-virid.vercel.app/api/pin?username=g0dObject&repo=Notes-Front"
-      /></a>
+  
 </div>
