@@ -32,7 +32,7 @@
       /></a>
    <h2>Last Project:</h2>
    <a
-      href="https://github.com/G0dObject/Recipe"
+      href="https://github.com/G0dObject/SteamRoulette"
       ><img
       height="120"
       src="https://stats-seven-virid.vercel.app/api/pin?username=g0dObject&repo=Recipe"
