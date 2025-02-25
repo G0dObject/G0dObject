@@ -1,7 +1,6 @@
 <h2>👨‍💻About me</h2>
 <p>
-   Beginner developer, no have commercial experience, looking for my first job,
-   participating in hackathons and doing pet projects
+   Beginner developer, participating in hackathons and doing pet projects
 </p>
 <h3>🔑 Key Points</h3>
 <ul>
